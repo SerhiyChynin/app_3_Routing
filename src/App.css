@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.active {
+  background: rgba(138, 255, 92, 0.826);
+  border-radius: 30%;
+}
